@@ -1,7 +1,7 @@
 <h1 align="center">💡 Bulb Switch Interaction 🐱</h1>
 
 <p align="center">
-  <b>An interactive JavaScript project where a bulb and a cat respond to ON/OFF switches.</b>
+  <b>An interactive JavaScript project where a bulb and a cat react to ON/OFF switches.</b>
 </p>
 
 <br>
@@ -26,55 +26,30 @@
 
 <br>
 
-<!-- SWITCH CONTAINER -->
-<div align="center">
-  <div style="
-    background-color: #9ca3af;
-    width: 300px;
-    padding: 16px;
-    border-radius: 16px;
-    text-align: center;
-  ">
-    <p style="color: white; font-weight: 600; margin-bottom: 12px;">
-      Switched On
-    </p>
+<!-- SWITCH CONTAINER (SAFE) -->
+<table align="center" cellpadding="12">
+  <tr>
+    <td align="center" bgcolor="#9ca3af" style="border-radius:16px;">
+      <p style="color:white; font-weight:600; margin-bottom:10px;">
+        Switched On
+      </p>
+      <img src="https://img.shields.io/badge/OFF-red?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ON-lightgrey?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
-    <button style="
-      background-color: #e12d39;
-      color: white;
-      border: none;
-      padding: 10px 24px;
-      border-radius: 8px;
-      font-weight: bold;
-      margin-right: 8px;
-    ">
-      OFF
-    </button>
-
-    <button style="
-      background-color: #cbd2d9;
-      color: white;
-      border: none;
-      padding: 10px 24px;
-      border-radius: 8px;
-      font-weight: bold;
-    ">
-      ON
-    </button>
-  </div>
-</div>
-
----
+<br>
 
 ## ✨ Features
 <p align="center">
   💡 Bulb ON / OFF toggle <br>
   🐱 Cat reacts to light <br>
-  🔄 Live status text <br>
+  🔄 Live status update <br>
   🎨 Styled using Tailwind CSS
 </p>
 
----
+<br>
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -83,7 +58,7 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge">
 </p>
 
----
+<br>
 
 <p align="center">
   👩‍💻 <b>Amisha Patel</b><br>
