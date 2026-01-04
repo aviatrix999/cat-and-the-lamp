@@ -1,5 +1,17 @@
 # cat-and-the-lamp
 this is a small beginner level project to understand the utility of html, tailwind and especially javascript that how it adds functionality to a simple html designed page.
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        roboto: ["Roboto", "sans-serif"],
+                    },
+                },
+            },
+        };
+</script>
 <h1 align="center">💡🐱 Bulb Switch Interaction</h1>
 
 <p align="center">
@@ -16,7 +28,7 @@ this is a small beginner level project to understand the utility of html, tailwi
 ---
 
 ## 🌈 Preview
-<p align="center">
+<p align="center" class="flex flex-cols justify-center items-center>
   <img src="https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/bulb-go-on-img.png" width="120">
   <img src="https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/cat-img.png" width="200">
 </p>
