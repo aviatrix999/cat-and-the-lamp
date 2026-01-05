@@ -1,95 +1,85 @@
-<h1 align="center">💡 Bulb Switch Interaction 🐱</h1>
+# 💡 Bulb & Cat Interactive Switch
 
-<p align="center">
-  <b>An interactive JavaScript project where a bulb and a cat react to ON/OFF switches.</b>
-</p>
+A fun and beginner-friendly **JavaScript DOM manipulation project** where a bulb and a cat react to ON/OFF switch actions.  
+This project demonstrates how JavaScript dynamically updates images, text, and styles based on user interaction.
 
-<br>
+---
 
-<!-- BULB -->
-<<<<<<< HEAD
-<!-- <p align="center">
-=======
-<p align="center">
->>>>>>> 42e2730368fd0c67319b772f183eb01f9f18f76a
-  <img 
-    src="https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/bulb-go-on-img.png" 
-    width="140"
-  />
-</p>
+## 🎬 Preview
 
-<<<<<<< HEAD
-<br> -->
+![Bulb & Cat Preview](./cat%20and%20the%20lamp%20gif.gif)
 
-<!-- CAT -->
-<!-- <p align="center">
-=======
-<br>
+> *(GIF preview is included directly from the repository)*
 
-<!-- CAT -->
-<p align="center">
->>>>>>> 42e2730368fd0c67319b772f183eb01f9f18f76a
-  <img 
-    src="https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/cat-img.png" 
-    width="260"
-  />
-<<<<<<< HEAD
-</p> -->
-=======
-</p>
->>>>>>> 42e2730368fd0c67319b772f183eb01f9f18f76a
-
-<br>
-
-<!-- SWITCH CONTAINER (SAFE) -->
-<<<<<<< HEAD
-<!-- <table align="center" cellpadding="12"> -->
-=======
-<table align="center" cellpadding="12">
->>>>>>> 42e2730368fd0c67319b772f183eb01f9f18f76a
-  <tr>
-    <td align="center" bgcolor="#9ca3af" style="border-radius:16px;">
-      <p style="color:white; font-weight:600; margin-bottom:10px;">
-        Switched On
-      </p>
-      <img src="https://img.shields.io/badge/OFF-red?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/ON-lightgrey?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
-<<<<<<< HEAD
-# 🐱 Cat and Lamp Project
-
-A Python project demonstrating interactive behavior between a cat and a lamp.
-
-## 🎬 Output Demo
-
-![Demo](cat and the lamp gif.gif)
-=======
->>>>>>> 42e2730368fd0c67319b772f183eb01f9f18f76a
-
-<br>
+---
 
 ## ✨ Features
-<p align="center">
-  💡 Bulb ON / OFF toggle <br>
-  🐱 Cat reacts to light <br>
-  🔄 Live status update <br>
-  🎨 Styled using Tailwind CSS
-</p>
 
-<br>
+- 🖱️ Interactive **ON / OFF** switch
+- 💡 Bulb turns **ON/OFF** dynamically
+- 🐱 Cat reacts differently when lights are off
+- 🎨 Styled using **Tailwind CSS**
+- ⚡ Pure **HTML + CSS + JavaScript**
+- 🚀 Beginner-friendly and easy to understand
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge">
-</p>
+---
 
-<br>
+## 🛠️ Technologies Used
 
-<p align="center">
-  👩‍💻 <b>Amisha Patel</b><br>
-  <a href="https://github.com/your-username">GitHub</a>
-</p>
+- **HTML5**
+- **Tailwind CSS**
+- **JavaScript (DOM Manipulation)**
+
+---
+
+## 📂 Project Structure
+
+
+---
+
+## 🚀 How It Works
+
+- Clicking **ON**:
+  - Bulb lights up
+  - Cat appears normally
+  - Status shows *Switched On*
+
+- Clicking **OFF**:
+  - Bulb turns off
+  - Cat eyes glow in the dark
+  - Status shows *Switched Off*
+
+All changes happen instantly using JavaScript by updating:
+- Image sources
+- Text content
+- Button styles
+
+---
+
+## 🧠 What I Learned
+
+- DOM selection using `getElementById`
+- Handling button click events
+- Dynamically changing images
+- Styling updates through JavaScript
+- Integrating Tailwind CSS with JS logic
+
+---
+
+## 🌱 Ideal For
+
+- Beginners learning JavaScript
+- Practicing DOM manipulation
+- Building interactive UI components
+- Portfolio mini-projects
+
+---
+
+## 📌 Author
+
+**Amisha**  
+✨ First-year CSE student | Exploring Web Development & JavaScript
+
+---
+
+⭐ If you like this project, don’t forget to **star the repository**!
