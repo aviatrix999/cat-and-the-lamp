@@ -7,27 +7,46 @@
 <br>
 
 <!-- BULB -->
+<<<<<<< HEAD
 <!-- <p align="center">
+=======
+<p align="center">
+>>>>>>> 42e2730368fd0c67319b772f183eb01f9f18f76a
   <img 
     src="https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/bulb-go-on-img.png" 
     width="140"
   />
 </p>
 
+<<<<<<< HEAD
 <br> -->
 
 <!-- CAT -->
 <!-- <p align="center">
+=======
+<br>
+
+<!-- CAT -->
+<p align="center">
+>>>>>>> 42e2730368fd0c67319b772f183eb01f9f18f76a
   <img 
     src="https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/cat-img.png" 
     width="260"
   />
+<<<<<<< HEAD
 </p> -->
+=======
+</p>
+>>>>>>> 42e2730368fd0c67319b772f183eb01f9f18f76a
 
 <br>
 
 <!-- SWITCH CONTAINER (SAFE) -->
+<<<<<<< HEAD
 <!-- <table align="center" cellpadding="12"> -->
+=======
+<table align="center" cellpadding="12">
+>>>>>>> 42e2730368fd0c67319b772f183eb01f9f18f76a
   <tr>
     <td align="center" bgcolor="#9ca3af" style="border-radius:16px;">
       <p style="color:white; font-weight:600; margin-bottom:10px;">
@@ -38,6 +57,7 @@
     </td>
   </tr>
 </table>
+<<<<<<< HEAD
 # 🐱 Cat and Lamp Project
 
 A Python project demonstrating interactive behavior between a cat and a lamp.
@@ -45,6 +65,8 @@ A Python project demonstrating interactive behavior between a cat and a lamp.
 ## 🎬 Output Demo
 
 ![Demo](cat and the lamp gif.gif)
+=======
+>>>>>>> 42e2730368fd0c67319b772f183eb01f9f18f76a
 
 <br>
 
