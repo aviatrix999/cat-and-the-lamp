@@ -35,6 +35,17 @@ This project demonstrates how JavaScript dynamically updates images, text, and s
 
 ## 📂 Project Structure
 
+```plaintext
+bulb-cat-switch/
+├── code.html
+│   └─ Main HTML file containing the Bulb & Cat interactive switch.
+│      - Includes JavaScript for ON/OFF functionality.
+│      - Styled using Tailwind CSS.
+├── cat and the lamp gif.gif
+│   └─ GIF preview of the project showing bulb & cat reactions.
+└── README.md
+    └─ Documentation and project overview.
+
 
 ---
 
