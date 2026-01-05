@@ -14,7 +14,7 @@ This project demonstrates how JavaScript dynamically updates images, text, and s
 
 ---
 
-## ✨ Features
+✨ Features
 
 - 🖱️ Interactive **ON / OFF** switch
 - 💡 Bulb turns **ON/OFF** dynamically
@@ -28,12 +28,12 @@ This project demonstrates how JavaScript dynamically updates images, text, and s
 🛠️ Technologies Used
 
 - HTML5
-- **Tailwind CSS**
-- **JavaScript (DOM Manipulation)**
+- Tailwind CSS
+- JavaScript (DOM Manipulation)
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 ```plaintext
 bulb-cat-switch/
@@ -49,14 +49,14 @@ bulb-cat-switch/
 
 ---
 
-## 🚀 How It Works
+🚀 How It Works
 
-- Clicking **ON**:
+- Clicking ON:
   - Bulb lights up
   - Cat appears normally
   - Status shows *Switched On*
 
-- Clicking **OFF**:
+- Clicking OFF:
   - Bulb turns off
   - Cat eyes glow in the dark
   - Status shows *Switched Off*
@@ -68,7 +68,7 @@ All changes happen instantly using JavaScript by updating:
 
 ---
 
-## 🧠 What I Learned
+🧠 What I Learned
 
 - DOM selection using `getElementById`
 - Handling button click events
@@ -78,7 +78,7 @@ All changes happen instantly using JavaScript by updating:
 
 ---
 
-## 🌱 Ideal For
+🌱 Ideal For
 
 - Beginners learning JavaScript
 - Practicing DOM manipulation
@@ -87,11 +87,11 @@ All changes happen instantly using JavaScript by updating:
 
 ---
 
-## 📌 Author
+📌 Author
 
-**Amisha**  
+Amisha Patel
 ✨ First-year CSE student | Exploring Web Development & JavaScript
 
 ---
 
-⭐ If you like this project, don’t forget to **star the repository**!
+⭐ If you like this project, don’t forget to star the repository!
