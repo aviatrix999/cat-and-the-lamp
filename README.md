@@ -8,7 +8,7 @@ This project demonstrates how JavaScript dynamically updates images, text, and s
 ## 🎬 Preview
 
 <div align="center">
-  <img src="./cat%20and%20the%20lamp%20gif.gif" alt="Bulb & Cat Preview" width="400px" height="600">
+  <img src="./cat%20and%20the%20lamp%20gif.gif" alt="Bulb & Cat Preview" width="400px" height="650">
 </div>
 
 
@@ -37,14 +37,14 @@ This project demonstrates how JavaScript dynamically updates images, text, and s
 
 ```plaintext
 bulb-cat-switch/
-├── code.html
-│   └─ Main HTML file containing the Bulb & Cat interactive switch.
-│      - Includes JavaScript for ON/OFF functionality.
-│      - Styled using Tailwind CSS.
+├── README.md
+│   └─ Documentation and project overview.
 ├── cat and the lamp gif.gif
 │   └─ GIF preview of the project showing bulb & cat reactions.
-└── README.md
-    └─ Documentation and project overview.
+├── code.html
+│   └─ Main HTML file containing the Bulb & Cat interactive switch.
+└── javaScript.js
+    └─ JavaScript file handling ON/OFF functionality and DOM updates.
 
 
 ---
