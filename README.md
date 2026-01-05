@@ -7,27 +7,27 @@
 <br>
 
 <!-- BULB -->
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/bulb-go-on-img.png" 
     width="140"
   />
 </p>
 
-<br>
+<br> -->
 
 <!-- CAT -->
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/cat-img.png" 
     width="260"
   />
-</p>
+</p> -->
 
 <br>
 
 <!-- SWITCH CONTAINER (SAFE) -->
-<table align="center" cellpadding="12">
+<!-- <table align="center" cellpadding="12"> -->
   <tr>
     <td align="center" bgcolor="#9ca3af" style="border-radius:16px;">
       <p style="color:white; font-weight:600; margin-bottom:10px;">
@@ -38,6 +38,13 @@
     </td>
   </tr>
 </table>
+# 🐱 Cat and Lamp Project
+
+A Python project demonstrating interactive behavior between a cat and a lamp.
+
+## 🎬 Output Demo
+
+![Demo](cat and the lamp gif.gif)
 
 <br>
 
