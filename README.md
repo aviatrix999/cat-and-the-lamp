@@ -8,7 +8,7 @@ This project demonstrates how JavaScript dynamically updates images, text, and s
 ## 🎬 Preview
 
 <div align="center">
-  <img src="./cat%20and%20the%20lamp%20gif.gif" alt="Bulb & Cat Preview" width="400px" height="400">
+  <img src="./cat%20and%20the%20lamp%20gif.gif" alt="Bulb & Cat Preview" width="400px" height="600">
 </div>
 
 
