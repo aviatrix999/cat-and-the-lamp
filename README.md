@@ -46,10 +46,10 @@ bulb-cat-switch/
 └── javaScript.js
     └─ JavaScript file handling ON/OFF functionality and DOM updates.
 
-
+```
 ---
 
-🚀 How It Works
+🚀 **How It Works**
 
 - Clicking ON:
   - Bulb lights up
@@ -68,7 +68,7 @@ All changes happen instantly using JavaScript by updating:
 
 ---
 
-🧠 What I Learned
+🧠 **What I Learned**
 
 - DOM selection using `getElementById`
 - Handling button click events
@@ -78,7 +78,7 @@ All changes happen instantly using JavaScript by updating:
 
 ---
 
-🌱 Ideal For
+🌱 **Ideal For**
 
 - Beginners learning JavaScript
 - Practicing DOM manipulation
@@ -87,9 +87,9 @@ All changes happen instantly using JavaScript by updating:
 
 ---
 
-📌 Author
+📌 **Author**
 
-Amisha Patel
+**Amisha Patel**
 ✨ First-year CSE student | Exploring Web Development & JavaScript
 
 ---
