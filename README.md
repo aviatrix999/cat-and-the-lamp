@@ -1,11 +1,11 @@
-💡 Bulb & Cat Interactive Switch
+**💡Bulb & Cat Interactive Switch**
 
 A fun and beginner-friendly **JavaScript DOM manipulation project** where a bulb and a cat react to ON/OFF switch actions.  
 This project demonstrates how JavaScript dynamically updates images, text, and styles based on user interaction.
 
 ---
 
-🎬 Preview
+**🎬 Preview**
 
 <div align="center">
   <img src="./cat%20and%20the%20lamp%20gif.gif" alt="Bulb & Cat Preview" width="400px" height="650">
@@ -14,7 +14,7 @@ This project demonstrates how JavaScript dynamically updates images, text, and s
 
 ---
 
-✨ Features
+**✨ Features**
 
 - 🖱️ Interactive **ON / OFF** switch
 - 💡 Bulb turns **ON/OFF** dynamically
@@ -25,7 +25,7 @@ This project demonstrates how JavaScript dynamically updates images, text, and s
 
 ---
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 - HTML5
 - Tailwind CSS
@@ -33,7 +33,7 @@ This project demonstrates how JavaScript dynamically updates images, text, and s
 
 ---
 
-📂 Project Structure
+**📂 Project Structure**
 
 ```plaintext
 bulb-cat-switch/
